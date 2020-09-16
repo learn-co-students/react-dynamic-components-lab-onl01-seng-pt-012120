@@ -15,7 +15,7 @@
     "react": "^16.12.0",
     "react-dom": "^16.12.0",
     "react-scripts": "^2.1.5",
-    "whatwg-url": "^8.2.2"
+    "whatwg-url": "8.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
